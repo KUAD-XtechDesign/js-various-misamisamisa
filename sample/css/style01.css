@@ -57,12 +57,13 @@ header ul li{
 }
 
 #back{
-  background-image:ct2f 2020-09-15 103040.764.jpg;
+  background-image:;
   background-size: cover;
   background-position: center 100px;
   top: 0;
   top:90%;
   transition: 2s all;
+
 }
 
 #back.anime{
