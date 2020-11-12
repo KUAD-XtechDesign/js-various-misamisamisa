@@ -57,11 +57,10 @@ header ul li{
 }
 
 #back{
-  background-image: url(bg_moon_sky_mangetsu_building.jpg);
+  background-image: url(../images/kagawa.jpg);
   background-size: cover;
-  background-position: center 100px;
-  top: 0;
-  top:90%;
+  background-position: center center;
+  top:100%;
   transition: 2s all;
 
 }
