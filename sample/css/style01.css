@@ -105,7 +105,7 @@ a:active {
 #car{
   position: absolute;
   bottom:100px;
-  max-width: 40%;
+  max-width: 60%;
   left: -250px;
   width: 250px;
   transition: 0.6s all;
